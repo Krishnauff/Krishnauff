@@ -18,8 +18,6 @@ graduation_year = 2021
 # Skills
 skills = ["*Python*", "*Java*", "*C++*", "*Data* Structures and Algorithms", "Machine Learning"]
 
-# Achievements and Awards
-achievements = ["Dean's List every semester", "Topper in Data Structures and Algorithms course"]
 
 # Hobbies and Interests
 hobbies = ["Playing cricket", "Reading books", "Traveling"]
