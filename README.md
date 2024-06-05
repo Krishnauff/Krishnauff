@@ -1,7 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐌𝐘+𝐏𝐑𝐎𝐅𝐈𝐋𝐄)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🥀𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐌𝐘+𝐏𝐑𝐎𝐅𝐈𝐋𝐄🥀)
 
 name = "Krishna Jha"
 age = 25
+
 gender = "Male"
 location = "Patna, Bihar"
 
