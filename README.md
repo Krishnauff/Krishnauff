@@ -8,7 +8,6 @@ location = "Patna, Bihar"
 # Contact Information
 phone_number = "9876543210"
 email = "krishna.jha@email.com"
-linkedin_url = "https://www.linkedin.com/in/krishna-jha/"
 
 # Education
 degree = "Bachelor of Technology in Computer Science"
